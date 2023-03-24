@@ -1,0 +1,44 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header1{
+    position: relative;
+}
+ 
+
+.list{
+    position: absolute;
+    top: 300px;
+    left: 0;
+    background-color: burlywood;
+    padding: 0px 20px;
+    opacity: 0.5;
+}
+
+
+
+.nav{
+    display: flex;
+    flex-wrap:  wrap;
+    gap: 30px;
+     width: 800px;
+    margin:  20px 20px;
+     
+}
+.nav1 img{
+    border-top: 4px solid orange; 
+}
+.nav2 img{
+    border-top: 4px solid orange;
+}
+.nav3 img{
+    border-top: 4px solid orange;  
+}
+.nav4 img{
+    border-top: 4px solid orange;
+} */
+ 
